@@ -1,0 +1,10 @@
+{
+  "name": "@auspicious/vue-vercode",
+  "version": "1.0.3",
+  "description": "一款 Vue 手机短信验证码组件",
+  "private": false,
+  "main": "vue-vercode.js",
+  "scripts": {},
+  "author": "auspicious",
+  "license": "ISC"
+}

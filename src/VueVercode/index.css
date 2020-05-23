@@ -1,0 +1,35 @@
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none !important;
+    margin: 0;
+}
+
+.code-input-main {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    position: relative;
+}
+
+.code-input-input {
+    height: 44px;
+    width: 100%;
+    position: absolute;
+    border: none;
+    outline: none;
+    color: transparent;
+    background-color: transparent;
+    text-shadow: 0 0 0 transparent;
+}
+
+.code-input-main-item {
+    width: 34px;
+    height: 44px;
+    margin: 0 5px;
+    padding-bottom: 0;
+    opacity: 0.8;
+    border-bottom: solid #323232 1px;
+    text-align: center;
+    font-size: 30px;
+   color: #323232;
+   }
