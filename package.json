@@ -6,5 +6,9 @@
   "main": "vue-vercode.js",
   "scripts": {},
   "author": "auspicious",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lovefive5/vue-vercode"
+  }
 }
